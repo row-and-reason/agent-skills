@@ -14,8 +14,8 @@ These skills supply methodology. Connect a Periplus MCP server separately using 
 List the available skills, then install just the ones you want:
 
 ```sh
-npx skills add Row-Reason/agent-skills --list
-npx skills add Row-Reason/agent-skills --skill periplus-dataset-research
+npx skills add row-and-reason/agent-skills --list
+npx skills add row-and-reason/agent-skills --skill periplus-dataset-research
 ```
 
 Replace the skill name with any name in the table. Add `-a codex -g` to install globally for Codex.
