@@ -5,7 +5,7 @@ description: Build an evidence-backed dataset for a research question using Peri
 
 # Dataset research
 
-Translate the question into a usable dataset, then interpret what the evidence supports. Work forward with reasonable assumptions; ask only when an unresolved choice would materially change the answer. Do not add a mandatory planning or approval pause.
+Translate the question into a usable dataset, then interpret what the evidence supports. Work forward with reasonable assumptions; ask only when an unresolved choice would materially change the answer. When the user starts from a loose topic rather than defined rows, show a small sample of what the sources support and get their agreement before expanding coverage substantially (a large crawl, many captures, pins or schedules). Once a scope is agreed, carry it out without asking per step.
 
 ## Shape the dataset
 
