@@ -13,6 +13,8 @@ Define what one row represents, the population and time period, inclusion and ex
 
 Use supplied files, authoritative sources, available search tools and existing captures as appropriate. Periplus corpus search searches captured material, not the live web. An empty result leaves coverage unresolved. When URLs are missing, use appropriate discovery outside Periplus or bounded link following from relevant seeds.
 
+For broad inventories or time-limited coverage, consider whether an official index, bulk data, API, directory or aggregator can supply the population or several needed fields before collecting pages individually. Choose sources for coverage, freshness, provenance and access, and verify consequential claims against authoritative sources. Skip this discovery step when the user has supplied the sources or the task is narrowly defined. Discovery may identify formats Periplus cannot capture; use an appropriate tool or another available representation.
+
 ## Learn from contrasting sources
 
 Inspect examples that could change the extraction or interpretation: a typical record, a different template, a missing field, a subsidiary, an out-of-scope result. Derive fields and evidence rules from the actual sources. Do not require artificial source categories or a fixed sample count.
